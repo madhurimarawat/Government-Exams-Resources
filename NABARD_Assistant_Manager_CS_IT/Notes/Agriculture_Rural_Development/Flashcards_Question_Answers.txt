@@ -1,0 +1,851 @@
+============================================================
+
+❓Q.1 What is the etymological origin of the term 'agriculture'?
+📃Answer:
+It is derived from the Latin words 'ager' or 'agri' meaning 'soil' and 'cultra' meaning 'cultivation'.
+============================================================
+
+❓Q.2 When was the National Bank for Agriculture and Rural Development (NABARD) established?
+📃Answer:
+NABARD was established in 1982.
+============================================================
+
+❓Q.3 "What is the term for the branch of agriculture that deals with the production of flowers, fruits, vegetables, and ornamental plants?"
+📃Answer:
+Horticulture.
+============================================================
+
+❓Q.4 "The branch of agriculture dealing with the production of large-scale perennial trees for supplying timber, rubber, etc., is known as _____."
+📃Answer:
+Forestry
+============================================================
+
+❓Q.5 What is the primary objective of Animal Husbandry?
+📃Answer:
+"To get maximum output by feeding, rearing, etc., to get minimum requirement of light or air."
+============================================================
+
+❓Q.6 What is a major difficulty in financing agriculture related to farm records?
+📃Answer:
+It is difficult to estimate the efficiency of farming in the absence of farm records.
+============================================================
+
+❓Q.7 How does the gestation period between investment and returns in agriculture compare to other sectors?
+📃Answer:
+"Agriculture has a long gestation period, while other sectors typically have a very short gestation period."
+============================================================
+
+❓Q.8 What is the etymological origin of the term 'Agronomy'?
+📃Answer:
+It is derived from the Greek words 'Agros' meaning 'field' and 'nomos' meaning 'to manage'.
+============================================================
+
+❓Q.9 What is the definition of Agronomy?
+📃Answer:
+"A branch of agricultural science that deals with the principles and practices of soil, water, and crop management."
+============================================================
+
+❓Q.10 "Based on agro-characteristics, India has been divided into how many agro-climatic regions?"
+📃Answer:
+15 agro-climatic regions.
+============================================================
+
+❓Q.11 "Shifting cultivation, also known as 'Jhum', is a major agricultural issue in which agro-climatic region of India?"
+📃Answer:
+The Eastern Himalayan Region.
+============================================================
+
+❓Q.12 What practice involves growing the same crop on the same piece of land year after year?
+📃Answer:
+Mono-cropping.
+============================================================
+
+❓Q.13 What is a major disadvantage of mono-cropping related to pests and weeds?
+📃Answer:
+The control of crop-associated pests and weeds becomes a problem.
+============================================================
+
+❓Q.14 What is crop rotation?
+📃Answer:
+It is the process of growing different crops in succession on a piece of land in a specific period to get maximum profit without impairing soil fertility.
+============================================================
+
+❓Q.15 "According to the principles of crop rotation, crops with tap roots should be followed by crops with a _____ root system."
+📃Answer:
+fibrous
+============================================================
+
+❓Q.16 What is Multiple Cropping?
+📃Answer:
+Growing two or more crops on the same piece of land in one agricultural year.
+============================================================
+
+❓Q.17 What is Intercropping?
+📃Answer:
+Growing two or more crops simultaneously on the same piece of land with a definite row pattern.
+============================================================
+
+❓Q.18 "The main objective of _____ is to get at least one crop under hazardous climatic conditions like flood, drought, or frost."
+📃Answer:
+Mixed cropping
+============================================================
+
+❓Q.19 What is Relay Cropping?
+📃Answer:
+It is a system analogous to a relay race where a crop hands over the land to the next crop in quick succession.
+============================================================
+
+❓Q.20 What is Ratoon Cropping?
+📃Answer:
+"It refers to raising a crop with regrowth coming out of roots or stalks after the harvest of the crop, such as in sugarcane."
+============================================================
+
+❓Q.21 Define 'dry farming' based on annual rainfall.
+📃Answer:
+Dry farming is the cultivation of crops in regions with an annual rainfall of less than 750 mm.
+============================================================
+
+❓Q.22 Define 'dryland farming' based on annual rainfall.
+📃Answer:
+Dryland farming is the cultivation of crops in regions with an annual rainfall of more than 750 mm but less than 1150 mm.
+============================================================
+
+❓Q.23 Define 'rainfed farming' based on annual rainfall.
+📃Answer:
+Rainfed farming is crop production in regions with an annual rainfall of more than 1150 mm.
+============================================================
+
+❓Q.24 What percentage of India's total food grain production comes from rainfed agriculture?
+📃Answer:
+Approximately 42 percent.
+============================================================
+
+❓Q.25 What is Agricultural Meteorology?
+📃Answer:
+An applied science which deals with the relationship between weather/climatic conditions and agricultural production.
+============================================================
+
+❓Q.26 What term refers to the unique and stable arrangement of farm enterprises that a household manages according to its environment and goals?
+📃Answer:
+Farming System.
+============================================================
+
+❓Q.27 What is the primary negative impact of modern farming systems on soil?
+📃Answer:
+"Degradation of soil quality, including structure and fertility."
+============================================================
+
+❓Q.28 What is the botanical classification family that includes cereals and sugarcane?
+📃Answer:
+Gramineae (grass family).
+============================================================
+
+❓Q.29 "What is the botanical classification family that includes field beans, lentils, and soybean?"
+📃Answer:
+Leguminosae (legume family).
+============================================================
+
+❓Q.30 What is the key characteristic of the roots of plants in the legume family?
+📃Answer:
+They bear enlargements called 'nodules' which contain Rhizobium bacteria capable of fixing atmospheric nitrogen.
+============================================================
+
+❓Q.31 Crops grown to be turned under while still green to improve soil properties are called _____ crops.
+📃Answer:
+Green manure
+============================================================
+
+❓Q.32 What is a 'cash crop'?
+📃Answer:
+Any short-maturing crop grown to generate income while the main crop is still in its vegetative stage.
+============================================================
+
+❓Q.33 What are 'biennial crops'?
+📃Answer:
+"Plants that complete their life cycle in two seasons, with vegetative growth in the first and flowering/seeding in the second."
+============================================================
+
+❓Q.34 Crops sown at the beginning of the south-west monsoon (May-July) and harvested in Sept-Oct are part of which season?
+📃Answer:
+The Kharif Season.
+============================================================
+
+❓Q.35 "Wheat, barley, and gram are important crops of which growing season in India?"
+📃Answer:
+The Rabi Season.
+============================================================
+
+❓Q.36 What are 'pulse crops'?
+📃Answer:
+Pulse crops are legumes that are important in crop rotations for fixing nitrogen in the soil.
+============================================================
+
+❓Q.37 What term describes the factors related to soil that influence crop production?
+📃Answer:
+Edaphic or Soil Factors.
+============================================================
+
+❓Q.38 What is the symbiotic relationship between legumes and Rhizobia bacteria significant for?
+📃Answer:
+"It results in nitrogen fixation, where atmospheric nitrogen is converted into a form usable by plants."
+============================================================
+
+❓Q.39 "In the context of crop production, what are 'anthropic' factors?"
+📃Answer:
+"Factors related to management by humans, such as tillage, sowing time, and fertilizer application."
+============================================================
+
+❓Q.40 What is seed germination?
+📃Answer:
+The resumption of growth by the embryo and the development of a young seedling from the seed.
+============================================================
+
+❓Q.41 "In _____ germination, the cotyledons remain under the soil."
+📃Answer:
+Hypogeal
+============================================================
+
+❓Q.42 "In _____ germination, the cotyledons are pushed above the soil surface."
+📃Answer:
+Epigeal
+============================================================
+
+❓Q.43 What is seed dormancy?
+📃Answer:
+"The failure of a fully developed, mature, viable seed to germinate under favorable conditions."
+============================================================
+
+❓Q.44 "Which class of seed is the initial seed of a new variety, produced under the direct supervision of the plant breeder?"
+📃Answer:
+Breeder Seed.
+============================================================
+
+❓Q.45 "What is the progeny of breeder seed, handled to maintain genetic identity and purity, called?"
+📃Answer:
+Foundation Seed.
+============================================================
+
+❓Q.46 "The progeny of foundation seed, produced by registered growers and monitored for purity by a certification agency, is called _____."
+📃Answer:
+Certified Seed
+============================================================
+
+❓Q.47 What are the two main objectives for which the National Seeds Corporation (NSC) was established in 1963?
+📃Answer:
+To promote the development of the seed industry in India and to produce & supply foundation seeds.
+============================================================
+
+❓Q.48 What is the purpose of a 'seed village' scheme?
+📃Answer:
+"To upgrade the quality of farmer-saved seed, which is a major source of seed for local communities."
+============================================================
+
+❓Q.49 "Which soil type in India is formed from materials deposited by rivers, is highly fertile, and is ideal for crops like rice and wheat?"
+📃Answer:
+Alluvial soil.
+============================================================
+
+❓Q.50 "Which soil type, also known as 'regur', is clayey, retains moisture, and is ideal for growing cotton?"
+📃Answer:
+Black soil.
+============================================================
+
+❓Q.51 Laterite soils are formed under conditions of high temperature and high _____.
+📃Answer:
+rainfall
+============================================================
+
+❓Q.52 What is soil fertility?
+📃Answer:
+The quality that enables the soil to provide proper nutrients in proper amounts and balance for the growth of specified plants.
+============================================================
+
+❓Q.53 Who is known as the 'father of field plot technique'?
+📃Answer:
+Jean Baptiste Boussingault.
+============================================================
+
+❓Q.54 "Justus von Liebig put forth the 'law of the _____', which states that yield is proportional to the amount of the most limiting nutrient."
+📃Answer:
+minimum
+============================================================
+
+❓Q.55 "What are the three primary macronutrients required by plants, often represented in NPK fertilizer ratings?"
+📃Answer:
+"Nitrogen (N), Phosphorus (P), and Potassium (K)."
+============================================================
+
+❓Q.56 "In an NPK fertilizer rating like 16-4-8, what does the first number (16) represent?"
+📃Answer:
+It represents 16% nitrogen content by weight.
+============================================================
+
+❓Q.57 What is soil erosion?
+📃Answer:
+"The detachment, transport, and deposition of soil particles on the land surface."
+============================================================
+
+❓Q.58 "A bar graph on land degradation in India shows that _____ is the largest contributor, affecting 93.68 million hectares."
+📃Answer:
+Water Erosion
+============================================================
+
+❓Q.59 What type of water erosion is characterized by the uniform removal of soil in thin layers from sloping land?
+📃Answer:
+Sheet Erosion.
+============================================================
+
+❓Q.60 "What type of erosion involves the detachment and transport of soil by a concentrated flow of water, forming small channels?"
+📃Answer:
+Rill Erosion.
+============================================================
+
+❓Q.61 "When rills become too large to be removed by normal tillage operations, they are known as _____."
+📃Answer:
+Gullies
+============================================================
+
+❓Q.62 What are the three types of soil movement in wind erosion?
+📃Answer:
+"Saltation, Suspension, and Surface creep."
+============================================================
+
+❓Q.63 What agricultural practice involves ploughing along the contours of the land to prevent soil erosion?
+📃Answer:
+Contour ploughing.
+============================================================
+
+❓Q.64 What is strip cropping?
+📃Answer:
+An erosion control practice of growing crops in a systematic arrangement of strips or bands across the general slope.
+============================================================
+
+❓Q.65 What is ley farming?
+📃Answer:
+An agrostological method that consists of growing grasses in rotation with agricultural crops to improve soil fertility and prevent erosion.
+============================================================
+
+❓Q.66 What is watershed management?
+📃Answer:
+The process of formulating and carrying out a course of action involving the management of natural resources in a watershed.
+============================================================
+
+❓Q.67 What is a primary objective of irrigation?
+📃Answer:
+To supply moisture essential for plant growth and increase crop production.
+============================================================
+
+❓Q.68 "According to the charts, which source provided the highest percentage of irrigation in India in 2011-12?"
+📃Answer:
+Tube Wells (45%).
+============================================================
+
+❓Q.69 What is drip irrigation?
+📃Answer:
+A micro-irrigation system with the potential to save water and nutrients by allowing water to drip slowly to the roots of plants.
+============================================================
+
+❓Q.70 What is the water requirement of a crop?
+📃Answer:
+"The quantity of water, regardless of source, needed for normal crop growth and yield in a period of time at a place."
+============================================================
+
+❓Q.71 The water requirement (WR) of a crop is equal to its consumptive use (CU) plus _____ losses and water needed for special operations.
+📃Answer:
+application
+============================================================
+
+❓Q.72 "An irrigation project with a culturable command area (CCA) of more than 10,000 hectares is classified as a _____ Irrigation project."
+📃Answer:
+Major
+============================================================
+
+❓Q.73 "An irrigation project with a culturable command area (CCA) up to 2,000 hectares is classified as a _____ Irrigation project."
+📃Answer:
+Minor
+============================================================
+
+❓Q.74 What is water logging in soil?
+📃Answer:
+"A condition where the soil is saturated with water, leading to a lack of aeration for plant roots."
+============================================================
+
+❓Q.75 What is the 'leaching requirement' in irrigation?
+📃Answer:
+The fraction of irrigation water that must be leached through the root zone to prevent soil salinity from exceeding a specific value.
+============================================================
+
+❓Q.76 What is the permanent wilting point (PWP) of soil?
+📃Answer:
+The moisture content at which plants wilt and do not recover unless external water is added.
+============================================================
+
+❓Q.77 What term describes the process where biomass is heated with limited oxygen to produce fuel gas?
+📃Answer:
+Gasification.
+============================================================
+
+❓Q.78 Biogas is a mixture primarily composed of which two gases?
+📃Answer:
+Methane ($CH_4$) (55-65%) and Carbon dioxide ($CO_2$) (30-40%).
+============================================================
+
+❓Q.79 What are the three stages of anaerobic digestion for biogas production?
+📃Answer:
+"Enzymatic hydrolysis, acid formation, and methane formation."
+============================================================
+
+❓Q.80 What is the optimum Carbon to Nitrogen (C/N) ratio that must be maintained for biogas production?
+📃Answer:
+The ratio of 30:1 is considered optimum.
+============================================================
+
+❓Q.81 What is the main difference between a KVIC-type and a Janata-type biogas plant regarding the gas holder?
+📃Answer:
+"The KVIC-type has a floating dome (steel gas holder), while the Janata-type has a fixed dome."
+============================================================
+
+❓Q.82 Which instrument is used to measure total solar radiation (direct and diffuse) on a horizontal surface?
+📃Answer:
+Pyranometer.
+============================================================
+
+❓Q.83 What is a major disadvantage of wind energy?
+📃Answer:
+Wind energy is intermittent and not constant.
+============================================================
+
+❓Q.84 Transportation fuels like ethanol and biodiesel that are made from biomass materials are known as _____.
+📃Answer:
+Biofuels
+============================================================
+
+❓Q.85 What are percolation tanks designed for?
+📃Answer:
+They are artificially created surface water bodies designed to facilitate percolation of runoff to recharge groundwater.
+============================================================
+
+❓Q.86 What is the purpose of constructing check dams or nala bunds?
+📃Answer:
+"To store runoff water from small streams, which then recharges the groundwater."
+============================================================
+
+❓Q.87 What is controlled atmosphere (CA) storage?
+📃Answer:
+A storage technology where levels of carbon dioxide are increased and oxygen are decreased to extend the shelf life of produce.
+============================================================
+
+❓Q.88 What is the etymological origin of the term 'horticulture'?
+📃Answer:
+From the Latin words 'HORTUS' meaning garden and 'CULTURA' meaning cultivation.
+============================================================
+
+❓Q.89 The branch of horticulture dealing with the cultivation of fruit crops is called _____.
+📃Answer:
+Pomology
+============================================================
+
+❓Q.90 The branch of horticulture dealing with the cultivation of vegetable crops is called _____.
+📃Answer:
+Olericulture
+============================================================
+
+❓Q.91 What is the recommended daily intake of fruits and vegetables per capita by the Indian Council of Medical Research (ICMR)?
+📃Answer:
+120g of fruits and 280g of vegetables per day.
+============================================================
+
+❓Q.92 "Which fruit zone is characterized by evergreen crops that cannot endure cool temperatures but tolerate warmth, such as banana and pineapple?"
+📃Answer:
+Tropical fruit zone.
+============================================================
+
+❓Q.93 "Which fruit zone is suitable for deciduous crops that require a definite chilling period to break dormancy, such as apples and peaches?"
+📃Answer:
+Temperate fruit zone.
+============================================================
+
+❓Q.94 What defines a plantation crop in the horticultural sense?
+📃Answer:
+"A woody perennial crop grown on a large contiguous area, the produce of which is consumed only after processing."
+============================================================
+
+❓Q.95 What is a multi-storeyed cropping system?
+📃Answer:
+"A system where crops of different heights are grown together to utilize vertical space, common in coconut or areca nut plantations."
+============================================================
+
+❓Q.96 It is estimated that post-harvest losses of fruits and vegetables in India are as high as _____.
+📃Answer:
+20-25%
+============================================================
+
+❓Q.97 What is the branch of science that deals with the study of various breeds of domesticated animals and their management?
+📃Answer:
+Animal Husbandry.
+============================================================
+
+❓Q.98 Over 53% of milk produced in India comes from which animal?
+📃Answer:
+The water buffalo.
+============================================================
+
+❓Q.99 What is the main agency behind the cooperative milk movement in India?
+📃Answer:
+The National Dairy Development Board (NDDB).
+============================================================
+
+❓Q.100 "A biogas plant, also called a gobar gas plant, uses animal excreta and anaerobic bacteria to produce _____ gas."
+📃Answer:
+methane
+============================================================
+
+❓Q.101 "The Aseel, Busra, and Karaknath are indigenous breeds of which type of poultry?"
+📃Answer:
+Chicken.
+============================================================
+
+❓Q.102 The White Leghorn and Rhode Island Red are well-known _____ breeds of hen with high egg-laying capacity.
+📃Answer:
+exotic
+============================================================
+
+❓Q.103 What is artificial insemination in animal breeding?
+📃Answer:
+"The collection of semen from a desired bull, its storage, and introduction into a female to bring about fertilization."
+============================================================
+
+❓Q.104 What is the embryo transplant method in animal breeding?
+📃Answer:
+Embryos from superior breeds are removed and transferred to females with inferior characters to carry the pregnancy.
+============================================================
+
+❓Q.105 "In the Tenth Plan for India, what was the target for milk production?"
+📃Answer:
+108.4 million tonnes.
+============================================================
+
+❓Q.106 What is the primary goal of creating 'disease-free zones' in animal husbandry?
+📃Answer:
+To prevent the spread of animal diseases and ensure the health of livestock for production and trade.
+============================================================
+
+❓Q.107 Which country is by far the top producer of fish in the world?
+📃Answer:
+China.
+============================================================
+
+❓Q.108 "In India's freshwater aquaculture, which group of fish accounts for over 80% of the farmed fish?"
+📃Answer:
+"Carp (such as Rohu, Catla, and Mrigal)."
+============================================================
+
+❓Q.109 What is brackish-water aquaculture?
+📃Answer:
+"The farming of aquatic organisms in water that has more salinity than fresh water, but not as much as seawater, typically for shrimp."
+============================================================
+
+❓Q.110 What is the dominant shrimp species in commercial brackish-water aquaculture in India?
+📃Answer:
+Giant tiger prawn (Penaeus monodon).
+============================================================
+
+❓Q.111 Which national authority now regulates and controls aquaculture in India?
+📃Answer:
+The Aquaculture Authority of India.
+============================================================
+
+❓Q.112 What is a key difference in financing between financing agriculture and other sectors regarding asset liquidity?
+📃Answer:
+"In agriculture, land is the major security and is not highly liquid, whereas other sectors use movable assets that can be easily liquidated."
+============================================================
+
+❓Q.113 What scientific field helps in understanding weather phenomena and soil conditions for agriculture?
+📃Answer:
+Physics.
+============================================================
+
+❓Q.114 The Imperial (now Indian) Council of Agricultural Research (ICAR) was established in what year?
+📃Answer:
+1929
+============================================================
+
+❓Q.115 "What type of cropping involves growing plants of different heights in the same field at the same time, like Coconut-Piper-Banana-Pineapple?"
+📃Answer:
+Multi-Storeyed System.
+============================================================
+
+❓Q.116 What is the primary function of the atmosphere's provision of carbon dioxide for crops?
+📃Answer:
+It is used to build biomass in photosynthesis.
+============================================================
+
+❓Q.117 How does the atmosphere protect crops from harmful solar radiation?
+📃Answer:
+It protects crop plants from harmful U.V. rays.
+============================================================
+
+❓Q.118 What is the primary goal of an Integrated Farming System (IFS)?
+📃Answer:
+"To ensure sustainable and environmentally friendly improvement in farm income, family nutrition, and resource employment."
+============================================================
+
+❓Q.119 What are C4 plants?
+📃Answer:
+"Plants that have adapted their photosynthetic processes to reduce water loss, common in hot, dry climates."
+============================================================
+
+❓Q.120 What is the role of soil in providing aeration for plants?
+📃Answer:
+Soil provides aeration for the growth of crop roots and for the decomposition of organic matter by soil organisms.
+============================================================
+
+❓Q.121 What is the function of water in maintaining the turgidity of plant cells?
+📃Answer:
+"Water fills the plant cells, creating pressure against the cell walls which keeps the plant tissues firm and upright."
+============================================================
+
+❓Q.122 The selective influence of diseases is a factor in the _____ of crop varieties over time.
+📃Answer:
+deterioration
+============================================================
+
+❓Q.123 What is the purpose of winnowing in seed processing?
+📃Answer:
+It is a method to remove chaff and other light debris from seeds by tossing them in the air.
+============================================================
+
+❓Q.124 What is the purpose of a compact area approach or 'Seed Village Concept' in agriculture?
+📃Answer:
+"It solves the problem of isolation for cross-pollinated crops, allows for mechanization, and reduces the cost of cultivation."
+============================================================
+
+❓Q.125 "Podzol soil, suitable for potatoes and tea, is typically found in which regions of India?"
+📃Answer:
+The Himalayan regions.
+============================================================
+
+❓Q.126 What is the definition of a soil's 'infiltration rate'?
+📃Answer:
+The maximum rate at which a soil can absorb water under given conditions.
+============================================================
+
+❓Q.127 The process of anaerobic digestion to produce biogas occurs in the absence of _____.
+📃Answer:
+oxygen
+============================================================
+
+❓Q.128 What is the primary application of photovoltaic cells in solar energy?
+📃Answer:
+Electricity generation.
+============================================================
+
+❓Q.129 "What type of storage silo is an inexpensive trench, usually with concrete walls, that is filled, packed, and covered with a plastic tarp?"
+📃Answer:
+Bunker Silos.
+============================================================
+
+❓Q.130 What are the two main types of dairy cattle breeds?
+📃Answer:
+Milch breeds (for milk) and draught breeds (for work).
+============================================================
+
+❓Q.131 What is the term for milk from which the cream has been separated?
+📃Answer:
+Toned milk or skimmed milk (if no fat remains).
+============================================================
+
+❓Q.132 What are 'draught animals'?
+📃Answer:
+"Animals used for carrying loads or for mechanical work, such as horses, camels, and donkeys."
+============================================================
+
+❓Q.133 Which government plan emphasized removing policy distortions and building participatory institutions for small-scale livestock farmers?
+📃Answer:
+The Tenth Plan.
+============================================================
+
+❓Q.134 The establishment of the Central Tuber Crops Research Institute (CTCRI) in Trivandrum occurred in which year?
+📃Answer:
+1963
+============================================================
+
+❓Q.135 "What is the purpose of the National Agricultural Innovation Project (NAIP), launched in 2006?"
+📃Answer:
+To enhance agricultural innovation and research to improve productivity and sustainability.
+============================================================
+
+❓Q.136 What is the main challenge in financing agriculture related to natural calamities?
+📃Answer:
+"Farming is exposed to natural calamities and uncertainties, which are harder to foresee and manage compared to risks in other sectors."
+============================================================
+
+❓Q.137 What is the primary use of mathematics and statistics in agriculture?
+📃Answer:
+"They are helpful in agricultural research, experimentation, and agricultural economics."
+============================================================
+
+❓Q.138 The 'Grow More Food Campaign' was initiated in India in which year?
+📃Answer:
+1942
+============================================================
+
+❓Q.139 What is the defining characteristic of an overlapping system of cropping?
+📃Answer:
+The succeeding crop is sown in the standing proceeding crop before the first crop is harvested.
+============================================================
+
+❓Q.140 What problem in irrigated agriculture has led to a plateau in grain productivity?
+📃Answer:
+"Problems related to nutrient exhaustion, salinity build-up, and rising water tables."
+============================================================
+
+❓Q.141 What is a key principle of organic farming regarding external inputs?
+📃Answer:
+To minimize the use of non-renewable resources and off-farm inputs.
+============================================================
+
+❓Q.142 What is the primary reason for classifying crops?
+📃Answer:
+To systematize their presentation and make understanding their requirements and characteristics easier and more convenient.
+============================================================
+
+❓Q.143 What is a 'cover crop'?
+📃Answer:
+A crop planted to provide a cover for the soil and to prevent erosion.
+============================================================
+
+❓Q.144 What are annual crops?
+📃Answer:
+Plants that complete their entire life cycle from seed to seed in a single growing season.
+============================================================
+
+❓Q.145 The failure of a seed to germinate due to an impermeable seed coat is a cause of what phenomenon?
+📃Answer:
+Seed Dormancy.
+============================================================
+
+❓Q.146 Why is isolation distance important in seed production?
+📃Answer:
+"To prevent contamination from natural crossing with undesirable types, diseased plants, or off-type plants."
+============================================================
+
+❓Q.147 What is the purpose of 'sieving' in post-harvest seed handling?
+📃Answer:
+To use sieves of different sizes to remove debris and chaff from the seeds.
+============================================================
+
+❓Q.148 What is the main advantage of artificial drying of seeds over sun drying?
+📃Answer:
+Drying is uniform and can be completed within a short span of time.
+============================================================
+
+❓Q.149 What is 'gully erosion'?
+📃Answer:
+An advanced stage of rill erosion where channels become so large that they cannot be removed by normal tillage.
+============================================================
+
+❓Q.150 "In wind erosion, what is 'suspension'?"
+📃Answer:
+The floating of very small soil particles that are carried long distances by the wind.
+============================================================
+
+❓Q.151 What is sub-soiling as a mechanical method to control erosion?
+📃Answer:
+Breaking the hard subsoil deeply with an implement to promote water absorption and root growth.
+============================================================
+
+❓Q.152 What is the purpose of 'pan breaking' in soil management?
+📃Answer:
+"To break a hard, impervious layer of clay beneath the surface to improve water permeability and drainage."
+============================================================
+
+❓Q.153 What is the 'leaching of salts' in the context of irrigation objectives?
+📃Answer:
+"Using irrigation water to wash excess soluble salts downward, out of the plant root zone."
+============================================================
+
+❓Q.154 What is 'sub-irrigation'?
+📃Answer:
+A method of artificially raising the water table to allow the soil to be moistened from below the plants' root zone.
+============================================================
+
+❓Q.155 "The quantity of water needed for normal crop growth, including losses and special operations, is called the _____."
+📃Answer:
+Water Requirement (WR)
+============================================================
+
+❓Q.156 "The total amount of water applied through irrigation, including field losses, is termed the _____ irrigation requirement."
+📃Answer:
+Gross
+============================================================
+
+❓Q.157 What is a primary benefit of proper drainage in agricultural fields?
+📃Answer:
+"It helps in soil ventilation/aeration, allowing for better and healthier root growth."
+============================================================
+
+❓Q.158 What is a 'percolation tank'?
+📃Answer:
+An artificially created surface water body designed specifically to recharge groundwater by allowing stored runoff to percolate into the soil.
+============================================================
+
+❓Q.159 What is a 'tower silo'?
+📃Answer:
+"A tall, cylindrical structure used for storing silage, typically made of concrete or steel panels."
+============================================================
+
+❓Q.160 What is the main difference between a silo and a bin?
+📃Answer:
+"A bin is typically much shorter than a silo and is used for holding dry matter like grain, whereas a silo is often used for silage."
+============================================================
+
+❓Q.161 The branch of horticulture that deals with the cultivation and management of spices and plantation crops is known as _____.
+📃Answer:
+Spices and Plantation crops
+============================================================
+
+❓Q.162 How do horticultural trees contribute to protecting the environment?
+📃Answer:
+"They help maintain the ecosphere, transform the microclimate, and provide shelter for wildlife, similar to forest trees."
+============================================================
+
+❓Q.163 What are the four requirements for a crop to be categorized as a 'plantation crop'?
+📃Answer:
+"It must be a woody perennial, grown on a large contiguous area, managed by an individual or company, and its produce consumed only after processing."
+============================================================
+
+❓Q.164 How do plantation crops like tea and cashew help in soil conservation?
+📃Answer:
+"When planted on slopes or wastelands, they protect the land from soil erosion from rain and wind."
+============================================================
+
+❓Q.165 Who are considered 'tamed' animals?
+📃Answer:
+"Animals caught from the wild and trained to be useful to humans, such as elephants."
+============================================================
+
+❓Q.166 What is 'roughage' in the context of cattle feed?
+📃Answer:
+"Fibrous and rough food like straw, hay, and stems of cereal crops that form a major part of a cow's diet."
+============================================================
+
+❓Q.167 "The 'Pashmina' breed of goat, known for its fine wool, is found in which region of India?"
+📃Answer:
+"The Himalayan Region (Himachal Pradesh, Ladakh, etc.)."
+============================================================
+
+❓Q.168 The 'Jamunapari' breed of goat is primarily found in which Indian states?
+📃Answer:
+Uttar Pradesh and Madhya Pradesh.
+============================================================
+
+❓Q.169 "In poultry, what is a key difference between Indian breeds and exotic breeds regarding egg and meat production?"
+📃Answer:
+"Indian breeds provide good quality meat but smaller eggs, while exotic breeds have high egg-laying capacity but carry less flesh."
+============================================================
+
+❓Q.170 The increase in egg production in India is often referred to as the _____ revolution.
+📃Answer:
+silver
+============================================================
