@@ -1,6 +1,6 @@
 # 📘 How to Use This Repository
 
-Welcome! 🙋‍♀️ This repo contains curated 📚 MA English Literature notes. Follow these simple steps to access and download them:
+Welcome! 🙋‍♀️ This repo contains curated 📚 Government Exams notes. Follow these simple steps to access and download them:
 
 ---
 
@@ -8,8 +8,8 @@ Welcome! 🙋‍♀️ This repo contains curated 📚 MA English Literature not
 
 To download an individual file:
 
-1. Click the subject folder (e.g., [1_Poetry](https://github.com/madhurimarawat/MA-English-Notes/blob/main/MA-English-Notes/Previous_Year/Notes/1_Poetry)).
-2. Open the file you want (e.g., `Poems_Title_Explanation.md`).
+1. Click the subject folder (e.g., [CBSE_Assistant_Secretary](https://github.com/madhurimarawat/Government-Exams-Resources/blob/main/Government-Exams-Resources/CBSE_Assistant_Secretary)).
+2. Open the file you want (e.g., `CBSE_DRQ_Assistant_Secretary_Handwritten_Notes.pdf`).
 3. Click the three dots `...` at the top-right of the file view.
 4. Click **Download** ⬇️ to save the file locally.
 
@@ -18,9 +18,9 @@ To download an individual file:
 
 ---
 
-## 📁 2. Download a **Complete Subject Folder** (e.g., 1_Poetry)
+## 📁 2. Download a **Complete Exam Folder** (e.g., CBSE_Assistant_Secretary)
 
-Want all units of a subject 📘 like *1_Poetry*?
+Want all contents of a exam 📘 like *CBSE_Assistant_Secretary*?
 
 GitHub doesn’t allow direct folder downloads, so use one of the methods below:
 
@@ -30,7 +30,7 @@ GitHub doesn’t allow direct folder downloads, so use one of the methods below:
 2. Paste the folder link, for example:
 
    ```
-   https://github.com/madhurimarawat/MA-English-Notes/tree/main/MA-English-Notes/Previous_Year/Notes/1_Poetry
+   https://github.com/madhurimarawat/Government-Exams-Resources/tree/main/Government-Exams-Resources/CBSE_Assistant_Secretary
    ```
 3. Click **Download** 🚀
    A ZIP file of that folder will be generated.
@@ -45,10 +45,10 @@ GitHub doesn’t allow direct folder downloads, so use one of the methods below:
 Use this if you're comfortable with Git and need just one folder:
 
 ```bash
-git clone --filter=blob:none --no-checkout https://github.com/madhurimarawat/MA-English-Notes.git
-cd MA-English-Notes
+git clone --filter=blob:none --no-checkout https://github.com/madhurimarawat/Government-Exams-Resources.git
+cd Government-Exams-Resources
 git sparse-checkout init --cone
-git sparse-checkout set "Previous_Year/Notes/1_Poetry"
+git sparse-checkout set "CBSE_Assistant_Secretary"
 git checkout main
 ```
 
@@ -68,7 +68,7 @@ Use this if you want to:
 Run:
 
 ```bash
-git clone https://github.com/madhurimarawat/MA-English-Notes.git
+git clone https://github.com/madhurimarawat/Government-Exams-Resources.git
 ```
 
 > [!WARNING]
