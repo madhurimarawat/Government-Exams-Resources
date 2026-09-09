@@ -40,7 +40,7 @@ Another thing was that some of my colleagues gave really good examples and I wan
 
 Now the second question was:
 
-# Q 2: social harmony is getting disturbed, and we had to rank the reasons from 1 to 8 based on importance.
+# Q 2: Social harmony is getting disturbed, and we had to rank the reasons from 1 to 8 based on importance.
 
 We were given a sheet, and in that sheet all the points were already given. Basically, the points were:
 
@@ -85,10 +85,6 @@ Overall, I feel it was a good performance from my side, with practical examples 
 Third Question was:
 
 # Q 3: Case Study
-
-Got you — same style, same length, same flow, just cleaned up spelling and clarity 👇
-
----
 
 Now the third and last question was a case study. Case study in the sense that we had to read it from a paper. They gave us a sheet, and after that there were 4 points, and we had to decide one point which we felt was the most apt. Then we had to talk about it.
 
