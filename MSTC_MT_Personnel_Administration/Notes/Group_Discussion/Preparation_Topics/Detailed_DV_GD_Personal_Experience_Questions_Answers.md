@@ -1,5 +1,13 @@
 # MSTC DV and GD
 
+If you just want to read the GD questions and answers in a better format and language, I have also written a LinkedIn article about it:
+
+[My Group Discussion Experience: Questions, Preparation & Key Learnings](https://www.linkedin.com/pulse/my-group-discussion-experience-questions-preparation-key-rawat-yqgec/)
+
+That version is more properly formatted and structured. This one is my raw version, which I wrote just after coming back from the GD. I noted down almost everything I remembered and have only done a little formatting and fixing here.
+
+So if you want the detailed and more formal version, you can check out the article.
+
 DV reached by 10 AM and I was on the 11:30 slot. Entry started a bit later and they adjusted accordingly. First, identity card was checked, then entry was allowed. After that, candidates who had filled the form were allowed for biometric, and they put the biometric seal on the call letter. After that, they did the document verification. It is advisable to self-attest and specifically sign with date on all the photocopies beforehand. This way it is done very quickly. After this, they put the seal and sign on the documents. After this, the next thing was group discussion.
 
 For this, the timing was the same, 11:30 AM. At the gate, they checked the call letter with seal and sign and Aadhaar card from the previous DV. Then we sat in the hall and they called us one by one in groups. After this, GD started.
