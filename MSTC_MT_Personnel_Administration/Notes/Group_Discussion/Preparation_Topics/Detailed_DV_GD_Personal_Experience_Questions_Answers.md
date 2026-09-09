@@ -4,7 +4,7 @@ DV reached by 10 AM and I was on the 11:30 slot. Entry started a bit later and t
 
 For this, the timing was the same, 11:30 AM. At the gate, they checked the call letter with seal and sign and Aadhaar card from the previous DV. Then we sat in the hall and they called us one by one in groups. After this, GD started.
 
-So in total there were 10 candidates. They sat around in chairs. Moderators were in the front and then the introduction part was first. All candidates were told to give their introduction. I said my name, place of residence, B.Tech, and my internship at ITM BSP. Other candidates also followed a similar structure, beginning with their name, then their place, then talking about their degree and their experience.
+So in total there were 10 candidates. They sat around in chairs. Moderators were in the front and then the introduction part was first. All candidates were told to give their introduction. I said my name, place of residence, B.Tech, and my internship at IIT Bhilai and BSP. Other candidates also followed a similar structure, beginning with their name, then their place, then talking about their degree and their experience.
 
 After this, we were given a pencil and a notepad to jot down our thoughts, and after this the GD started.
 
