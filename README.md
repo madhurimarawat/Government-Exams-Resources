@@ -4,7 +4,7 @@ A curated collection of resources for various government exams, organized to hel
 > [!NOTE]
 > ⭐ **If you find this helpful, consider giving the repo a star! It helps others discover it.**
 
-![Exams](https://img.shields.io/badge/Exams-6+-brightgreen)
+![Exams](https://img.shields.io/badge/Exams-8+-brightgreen)
 ![Notes](https://img.shields.io/badge/Notes-Handwritten-blue)
 ![Content](https://img.shields.io/badge/Content-Curated-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -15,11 +15,15 @@ A curated collection of resources for various government exams, organized to hel
 
 The repository currently contains resources for:
 
-* **SEBI** (Securities and Exchange Board of India)
-* **MSTC** (Metal Scrap Trading Corporation)
-* **NABARD** (National Bank for Agriculture and Rural Development)
-* **CBSE** (Central Board of Secondary Education)
-* **LIC AAO** (Life Insurance Corporation Assistant Administrative Officer)
+- **SEBI** (Securities and Exchange Board of India) Assistant Manager
+- **MSTC** (Metal Scrap Trading Corporation) Management Trainee (Personnel and Administration)
+- **NABARD** (National Bank for Agriculture and Rural Development) Assistant Manager
+- **CBSE** (Central Board of Secondary Education) Assistant Secretary
+- **LIC AAO** (Life Insurance Corporation of India) Assistant Administrative Officer
+- **BARC OCES/DGFS** (Bhabha Atomic Research Centre) OCES/DGFS
+- **CGPSC SSE** (Chhattisgarh Public Service Commission) State Service Examination
+- **ITID** Young Professional
+- **RRB** (Railway Recruitment Board) JE (Junior Engineer)
 
 ---
 
@@ -48,7 +52,7 @@ Government-Exams-Resources/ 📂
 ## ✨ Highlights
 
 * 📝 **Personal handwritten notes** for better conceptual clarity
-* 📊 Covers **6+ competitive exams**
+* 📊 Covers **8+ competitive exams**
 * 📚 Organized subject-wise for efficient revision
 * 🏛️ Includes **previous year questions** for practice
 * 🔗 Centralized **official resources & links**
@@ -57,8 +61,8 @@ Government-Exams-Resources/ 📂
 
 ## 🧠 How to Use
 
-* Start with the **Notes** folder for concepts
-* Refer to **Previous Year Questions** for practice
-* Use **Official** for latest updates and links
+* Start with the **Official** folder for official notifications, websites, and important links
+* Refer to the **Notes** folder to study concepts and prepare for the exams
+* Use **Previous Year Questions** for practice and to understand exam patterns
 
 This repository is designed to make preparation **structured, accessible, and less overwhelming**.
